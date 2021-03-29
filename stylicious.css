@@ -1,0 +1,42 @@
+body {
+background-color:#ff66cc;
+    text-align: center;
+}
+
+p {
+  font-family: rockwell;
+  font-size: 20px;
+}
+
+.button1 {
+border:none;
+color: Purple;
+font-family: rockwell;
+}
+
+.header {
+padding: 10px;
+background:rebeccapurple ;
+text-align: center;
+color: white;
+font-size: 20px;
+font-family: rockwell;
+}
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: rebeccapurple;
+color: white;
+text-align: center;
+}
+
+h3 {
+font-family: rockwell;        
+}
+
+h4 {
+font-family: rockwell;        
+}
